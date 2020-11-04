@@ -131,4 +131,12 @@ h1 {
     font-size: 4rem;
     padding: 1.8rem;
   }
+  .right {
+    font-size: 1.4rem;
+    margin: 0 4% 0 4%;
+  }
+  h1 {
+    font-size: 3.5rem;
+    margin: 0 2% 0 2%;
+  }
 }
